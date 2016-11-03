@@ -1,0 +1,14 @@
+{
+    "name": "iruwl/php-basic-auth",
+    "description": "Belajar HTTP Basic Auth + JSON Web Token",
+    "license": "gratis",
+    "authors": [
+        {
+            "name": "iruwl",
+            "email": "irul_sylva@yahoo.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^4.0"
+    }
+}
